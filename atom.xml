@@ -6,7 +6,7 @@
   <link href="https://xiaochuanqian.github.io/atom.xml" rel="self"/>
   
   <link href="https://xiaochuanqian.github.io/"/>
-  <updated>2025-02-11T15:03:07.340Z</updated>
+  <updated>2025-02-11T15:40:47.052Z</updated>
   <id>https://xiaochuanqian.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test tag and category</title>
+    <link href="https://xiaochuanqian.github.io/2025/02/11/Test-tag-and-category/"/>
+    <id>https://xiaochuanqian.github.io/2025/02/11/Test-tag-and-category/</id>
+    <published>2025-02-11T15:39:33.000Z</published>
+    <updated>2025-02-11T15:40:47.052Z</updated>
+    
+    
+    
+    
+    <category term="多语言" scheme="https://xiaochuanqian.github.io/categories/%E5%A4%9A%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="test" scheme="https://xiaochuanqian.github.io/tags/test/"/>
+    
+  </entry>
   
   <entry>
     <title>test</title>
