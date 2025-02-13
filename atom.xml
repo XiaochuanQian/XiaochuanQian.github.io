@@ -6,7 +6,7 @@
   <link href="https://xiaochuanqian.github.io/atom.xml" rel="self"/>
   
   <link href="https://xiaochuanqian.github.io/"/>
-  <updated>2025-02-11T15:42:18.006Z</updated>
+  <updated>2025-02-13T16:48:17.741Z</updated>
   <id>https://xiaochuanqian.github.io/</id>
   
   <author>
@@ -17,77 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Test tag and category</title>
-    <link href="https://xiaochuanqian.github.io/2025/02/11/Test-tag-and-category/"/>
-    <id>https://xiaochuanqian.github.io/2025/02/11/Test-tag-and-category/</id>
-    <published>2025-02-11T15:39:33.000Z</published>
-    <updated>2025-02-11T15:42:18.006Z</updated>
-    
-    <content type="html"><![CDATA[<p>Test</p>]]></content>
+    <title>A Possible Explanation for the Diminish of Local Tongue in China</title>
+    <link href="https://xiaochuanqian.github.io/2025/02/14/shanghai-dialect-diminish/"/>
+    <id>https://xiaochuanqian.github.io/2025/02/14/shanghai-dialect-diminish/</id>
+    <published>2025-02-13T16:10:54.000Z</published>
+    <updated>2025-02-13T16:48:17.741Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;Test&lt;/p&gt;
-</summary>
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/uKRH3xZ.jpeg&quot; alt=&quot;image-20250214003707893&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Notes: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;This is my</summary>
+        
       
     
     
     
-    <category term="多语言" scheme="https://xiaochuanqian.github.io/categories/%E5%A4%9A%E8%AF%AD%E8%A8%80/"/>
+    <category term="Shanghai Dialect" scheme="https://xiaochuanqian.github.io/categories/Shanghai-Dialect/"/>
     
     
-    <category term="test" scheme="https://xiaochuanqian.github.io/tags/test/"/>
+    <category term="linguistics" scheme="https://xiaochuanqian.github.io/tags/linguistics/"/>
     
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="https://xiaochuanqian.github.io/2025/02/11/test/"/>
-    <id>https://xiaochuanqian.github.io/2025/02/11/test/</id>
-    <published>2025-02-11T15:02:52.000Z</published>
-    <updated>2025-02-11T15:03:07.340Z</updated>
+    <category term="politics" scheme="https://xiaochuanqian.github.io/tags/politics/"/>
     
-    <content type="html"><![CDATA[<h2 id="中文部分"><a href="#中文部分" class="headerlink" title="中文部分"></a>中文部分</h2><p>这是一个多语言测试文章的示例，适用于 Hexo 博客系统。你可以在同一篇文章中显示多种语言的内容，以满足不同用户的需求。</p><p>示例列表：</p><ol><li>这是一段中文测试文本。</li><li>Hexo 允许自定义主题和插件。</li><li>你可以使用 <code>hexo new post &quot;title&quot;</code> 来创建新文章。</li></ol><h2 id="English-Section"><a href="#English-Section" class="headerlink" title="English Section"></a>English Section</h2><p>This is an example of a multilingual test post for the Hexo blog system. You can display content in multiple languages within the same post to cater to different users.</p><p>Example list:</p><ol><li>This is a test text in English.</li><li>Hexo allows custom themes and plugins.</li><li>You can use <code>hexo new post &quot;title&quot;</code> to create a new post.</li></ol><h2 id="日本語セクション"><a href="#日本語セクション" class="headerlink" title="日本語セクション"></a>日本語セクション</h2><p>これはHexoブログシステム用の多言語テスト記事の例です。同じ記事内で複数の言語を表示し、異なるユーザーに対応できます。</p><p>例のリスト：</p><ol><li>これは日本語のテストテキストです。</li><li>Hexoはカスタムテーマとプラグインをサポートしています。</li><li><code>hexo new post &quot;title&quot;</code> を使って新しい記事を作成できます。</li></ol><h2 id="Francais"><a href="#Francais" class="headerlink" title="Français"></a>Français</h2><p>Ceci est un exemple de test multilingue pour le système de blog Hexo. Vous pouvez afficher du contenu en plusieurs langues dans le même article pour répondre à différents utilisateurs.</p><p>Liste d’exemples :</p><ol><li>Ceci est un texte de test en français.</li><li>Hexo permet des thèmes et plugins personnalisés.</li><li>Vous pouvez utiliser <code>hexo new post &quot;title&quot;</code> pour créer un nouvel article.</li></ol><h2 id="Espanol"><a href="#Espanol" class="headerlink" title="Español"></a>Español</h2><p>Este es un ejemplo de publicación de prueba multilingüe para el sistema de blogs Hexo. Puede mostrar contenido en varios idiomas en la misma publicación para atender a diferentes usuarios.</p><p>Lista de ejemplos:</p><ol><li>Este es un texto de prueba en español.</li><li>Hexo permite temas y complementos personalizados.</li><li>Puede usar <code>hexo new post &quot;title&quot;</code> para crear una nueva publicación.</li></ol><h2 id="Deutsch"><a href="#Deutsch" class="headerlink" title="Deutsch"></a>Deutsch</h2><p>Dies ist ein Beispiel für einen mehrsprachigen Testbeitrag für das Hexo-Blogsystem. Sie können Inhalte in mehreren Sprachen innerhalb desselben Beitrags anzeigen, um verschiedene Benutzer anzusprechen.</p><p>Beispielliste:</p><ol><li>Dies ist ein Testtext auf Deutsch.</li><li>Hexo ermöglicht benutzerdefinierte Themen und Plugins.</li><li>Sie können <code>hexo new post &quot;title&quot;</code> verwenden, um einen neuen Beitrag zu erstellen.</li></ol><h2 id="代码示例-Code-Example"><a href="#代码示例-Code-Example" class="headerlink" title="代码示例 | Code Example"></a>代码示例 | Code Example</h2><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;Hello, Hexo! 你好，Hexo！こんにちは、Hexo！Bonjour, Hexo！Hola, Hexo！Hallo, Hexo！&quot;</span>);</span><br></pre></td></tr></table></figure><h2 id="结论-Conclusion"><a href="#结论-Conclusion" class="headerlink" title="结论 | Conclusion"></a>结论 | Conclusion</h2><p>支持多语言显示的文章可以提高博客的可读性，并吸引更广泛的受众。</p>]]></content>
+    <category term="shanghai" scheme="https://xiaochuanqian.github.io/tags/shanghai/"/>
     
+    <category term="dialect" scheme="https://xiaochuanqian.github.io/tags/dialect/"/>
     
-      
-      
-    <summary type="html">&lt;h2 id=&quot;中文部分&quot;&gt;&lt;a href=&quot;#中文部分&quot; class=&quot;headerlink&quot; title=&quot;中文部分&quot;&gt;&lt;/a&gt;中文部分&lt;/h2&gt;&lt;p&gt;这是一个多语言测试文章的示例，适用于 Hexo 博客系统。你可以在同一篇文章中显示多种语言的内容，以满足不同用户的需求。&lt;/</summary>
-      
-    
-    
-    
-    <category term="测试" scheme="https://xiaochuanqian.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
-    
-    <category term="Test" scheme="https://xiaochuanqian.github.io/categories/%E6%B5%8B%E8%AF%95/Test/"/>
-    
-    
-    <category term="hexo" scheme="https://xiaochuanqian.github.io/tags/hexo/"/>
-    
-    <category term="多语言" scheme="https://xiaochuanqian.github.io/tags/%E5%A4%9A%E8%AF%AD%E8%A8%80/"/>
-    
-    <category term="multilingual" scheme="https://xiaochuanqian.github.io/tags/multilingual/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://xiaochuanqian.github.io/2025/02/11/hello-world/"/>
-    <id>https://xiaochuanqian.github.io/2025/02/11/hello-world/</id>
-    <published>2025-02-11T09:38:04.520Z</published>
-    <updated>2025-02-11T09:38:04.520Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
+    <category term="vernacular" scheme="https://xiaochuanqian.github.io/tags/vernacular/"/>
     
   </entry>
   
